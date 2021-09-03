@@ -1,0 +1,15 @@
+.home-container{
+  position:relative;
+  top:54px;
+  display: flex;
+  justify-content: center;
+  z-index:0;
+}
+.home-case{
+  width: 975px;
+
+  margin-top: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

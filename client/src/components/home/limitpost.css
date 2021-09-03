@@ -1,0 +1,39 @@
+.limitpost-container {
+  color: black;
+}
+.limitpost-case {
+  width: 600px;
+  height: 116px;
+  border: 1px solid rgba(44, 43, 43, 0.2);
+  display: flex;
+  font-display: row;
+  align-items: center;
+}
+.limitpost-item{
+  height:88px;
+  width:80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin:0 0 0 16px;
+}
+.limitpost-item-circle{
+  width:64px;
+  height:64px;
+  border: 2px solid darksalmon;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.limitpost-item-pic{
+  width:60px;
+  height:60px;
+  border-radius: 50%;
+}
+.limitpost-item-name{
+  margin-top:8px;
+  color:dimgray;
+  font-size: 5px;
+}
